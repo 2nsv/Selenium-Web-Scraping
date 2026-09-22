@@ -42,8 +42,8 @@ Export to CSV
 ## 📂 Project Structure
 
 ```text
-├── scraper.py
-├── Data_Engineer_Jobs.csv
+├── scraper.ipynb
+├── Jobs.csv
 └── README.md
 ```
 
